@@ -4,3 +4,6 @@
 # Performs reverse, get tokens or inverse tokens, concatenation 
 # Tokens Function still in development process not completed as of yet
 # View the attached .txt file for the format 
+
+
+##It Compiles, 50 points for gryffindor
