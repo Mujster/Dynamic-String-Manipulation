@@ -6,4 +6,4 @@
 # View the attached .txt file for the format 
 
 
-##It Compiles, 50 points for gryffindor
+#It Compiles, 50 points for gryffindor
